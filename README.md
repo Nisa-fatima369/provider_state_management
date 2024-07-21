@@ -15,6 +15,8 @@ flutter run
 
 ## 📱 Screen Shots
 
+<img src="https://github.com/user-attachments/assets/eb36adb2-d0ea-4c4a-ac30-8f745489d72a" width=180> <img src="https://github.com/user-attachments/assets/72fcdf39-f797-41c1-ab5b-7b0598699892" width=180> <img src="https://github.com/user-attachments/assets/4f6857f7-461e-4e53-b40d-6b6a826a0c9f" width=180>
+
 ## 🔗 API Information
 
 API Used: https://reqres.in/
